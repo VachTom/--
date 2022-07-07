@@ -1,0 +1,15 @@
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\bin\Debug\net6.0\Examples_04_DIF.exe
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\bin\Debug\net6.0\Examples_04_DIF.deps.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\bin\Debug\net6.0\Examples_04_DIF.runtimeconfig.json
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\bin\Debug\net6.0\Examples_04_DIF.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\bin\Debug\net6.0\Examples_04_DIF.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.csproj.AssemblyReference.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.AssemblyInfoInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.AssemblyInfo.cs
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.csproj.CoreCompileInputs.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\refint\Examples_04_DIF.dll
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.pdb
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\Examples_04_DIF.genruntimeconfig.cache
+C:\Users\wrest\OneDrive\Рабочий стол\GeekBrains\C#\1__Лекция\Examples_04_DIF\obj\Debug\net6.0\ref\Examples_04_DIF.dll
